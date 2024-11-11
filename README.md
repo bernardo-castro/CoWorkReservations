@@ -1,6 +1,6 @@
-# **Nombre de la Aplicación**
+# **CoWorkReservations**
 
-Descripción breve de la aplicación y sus características principales.
+Aplicación en Laravel para gestionar la reserva de espacios en un cowork. 
 
 ## **Requisitos Previos**
 
