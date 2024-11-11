@@ -70,13 +70,6 @@ php artisan migrate --seed
 ```
 Este comando migrará las tablas a la base de datos y ejecutará los seeders para insertar datos de prueba o iniciales.
 
-```bash
-Usuarios de Prueba
-Admin        admin@example.com        admin123
-Client1      client1@example.com      12345678
-Client2      client2@example.com      12345678
-```
-
 ### 6. **Iniciar el servidor de desarrollo**
 
 Ahora puedes iniciar el servidor local de desarrollo con el siguiente comando:
@@ -86,6 +79,13 @@ php artisan serve
 ```
 La aplicación estará disponible en http://localhost:8000.
 
+Usuarios de Prueba:
+
+```bash
+Admin        admin@example.com        admin123
+Client1      client1@example.com      12345678
+Client2      client2@example.com      12345678
+```
 
 
 
