@@ -19,8 +19,8 @@ Sigue estos pasos para instalar y configurar la aplicación:
 Clona el repositorio en tu máquina local utilizando Git:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/bernardo-castro/CoWorkReservations.git
+cd CoWorkReservations
 ```
 
 ### 2. **Instalar dependencias**
